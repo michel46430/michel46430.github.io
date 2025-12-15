@@ -16,7 +16,7 @@
     </div>
     <p>This is my home page! Click on the links above to learn more about my favorite hobbies.</p>
     <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" height="200">
-    <polygon points="100,100 150,25 150,75 200,0" fill="black" stroke="red" />
+    <polygon points="100,100 150,25 25,150 200,0" fill="black" stroke="red" />
     </svg>
   </body>
  
