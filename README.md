@@ -15,5 +15,11 @@
     <h3><a href="page3.html">TV Shows</a></h3>
     </div>
     <p>This is my home page! Click on the links above to learn more about my favorite hobbies.</p>
+    <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" height="200">
+
+  <polygon points="0,100 50,25 50,75 100,0" fill="red"/>
+
+  <polygon points="100,100 150,25 150,75 200,0" fill="none" stroke="black" />
+</svg>
   </body>
 
