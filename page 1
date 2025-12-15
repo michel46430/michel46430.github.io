@@ -1,1 +1,18 @@
-
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Music Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <h2>Music</h2>
+    <div id ="container">
+      <h3><a href="resume.html">Home</a></h3>
+      <h3>Music</h3>
+      <h3><a href="page2.html">Gaming</a></h3>
+      <h3><a href="page3.html">TV Shows</a></h3>
+    </div>
+    <p> One of my favorite hobbies is music! I grew up taking choir classes and listening to a lot of different kinds. My favorite genres are Progressive Metal and Korean Pop.</p>
+    <p>I also go to concerts to see the groups I like live. This year I'll have gone to at least eight concerts. I usually only go to metal and kpop concerts, but I did see one comedy band this year.</p>
+  </body>
+</html>
